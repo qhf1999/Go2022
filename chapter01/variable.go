@@ -8,7 +8,7 @@ var x = &name
 func main() {
 	name := "tom"
 	y := &name
-	fmt.Println("我是齐红飞")
+	fmt.Println("我是🐯")
 	fmt.Println(x)
 	fmt.Println(y)
 }
