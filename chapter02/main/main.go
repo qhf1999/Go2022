@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Test-A/chapter02/model"
+	"Go2022/chapter02/model"
 	"fmt"
 	"strconv"
 )
